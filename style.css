@@ -269,6 +269,82 @@ ul{
 
 /* Media Query */
 @media (max-width: 1000px) {
+  /* Navbar */
+  .navbar {
+    height: 30px;
+  }
+  
+  .nav-logo {
+    height: 30px;
+    width: 50px;
+  }
+  .logo {
+    height: 25px;
+  }
+  /* Box 2 */
+  .add-first {
+    font-size: 0.4rem;
+    margin-left: 9px;
+  }
+  .add-second {
+    font-size: 0.4rem;
+    margin-left: 1.5px;
+  }
+  .add-icon {
+    font-size: x-small;
+  }
+  
+  /* Box3 */
+  .nav-search {
+    width: 120px;
+    height: 17px;
+    border-radius: 2px;
+  }
+  .nav-search:hover {
+    border: 1px solid orange;
+  }
+  
+  .search-select {
+    font-size: 0.5rem;
+    width: 40px;
+  }
+  
+  .search-input {
+    font-size: 0.5rem;
+    /* border: none; */
+  }
+  
+  .search-icon {
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    width: 22px;
+    /* background-color: #febd69; */
+    /* border-top-right-radius: 4px; */
+    /* border-bottom-right-radius: 4px; */
+    font-size: 0.6rem;
+    /* color: #0f1111; */
+  }
+  
+  /* box4 */
+  span {
+    font-size: 0.5rem;
+  }
+  .nav-second {
+    font-size: 0.44rem;
+    font-weight: 700;
+  }
+  
+  /* Box5 */
+  .nav-cart i {
+    font-size: 15px;
+  }
+  
+  .nav-cart {
+    font-size: 0.45rem;
+    font-weight: 700;
+  }
+
   /* Hero Section */
   .hero-section {
     height: 100px;
@@ -326,7 +402,7 @@ ul{
   }
 
   .foot-panel2 {
-    height: 300px;
+    height: 250px;
   }
   ul {
     margin-top: 10px;
@@ -362,3 +438,4 @@ ul{
     font-size: 0.5rem;
   }
 }
+

@@ -268,7 +268,7 @@ ul{
 }
 
 /* Media Query */
-@media (max-width: 600px) and (min-width : 350px) {
+@media (max-width: 800px) and (min-width : 350px) {
   /* Navbar */
   .navbar {
     height: 30px;

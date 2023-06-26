@@ -266,3 +266,29 @@ ul{
 .copyright{
     font-size: 0.7rem;
 }
+
+/* Media Query */
+@media (max-width :1000px){
+  .hero-section {
+    height: 100px;
+  }
+  
+  .hero-message {
+    height: 10px;
+    font-size: 0.3rem;
+  }
+
+  .panel {
+    height: 20px;
+  }
+  
+  .panel-ops {
+    font-size: 0.4rem;
+  }
+  .panel-all {
+    font-size: 0.4rem;
+  }
+  .panel-deals {
+    font-size: 0.4rem;
+  }
+}

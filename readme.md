@@ -1,6 +1,7 @@
 # Amazon Website Clone
 
 This project is a CSS and HTML-only clone of the Amazon website.
+Please find demo here : https://btguy-amzn-clone.netlify.app/
 
 ## Description
 

@@ -268,12 +268,12 @@ ul{
 }
 
 /* Media Query */
-@media (max-width :1000px){
+@media (max-width: 1000px) {
   /* Hero Section */
   .hero-section {
     height: 100px;
   }
-  
+
   .hero-message {
     height: 15px;
     font-size: 0.37rem;
@@ -285,7 +285,7 @@ ul{
   .panel {
     height: 20px;
   }
-  
+
   .panel-ops {
     font-size: 0.4rem;
   }
@@ -299,19 +299,66 @@ ul{
   /* Shop Section */
   .box {
     height: 200px;
-    width: 40%;
+    width: 45%;
   }
-  
+
   .box-image {
     height: 150px;
     margin-top: 0.5rem;
     margin-bottom: 0.5rem;
   }
-    
+
   .box-content p {
     font-size: 0.7rem;
   }
   h2 {
-    font-size: 11px;
+    font-size: 12px;
+  }
+
+  /* Footer */
+  footer {
+    margin-top: 10px;
+  }
+
+  .foot-panel1 {
+    height: 25px;
+    font-size: 0.7rem;
+  }
+
+  .foot-panel2 {
+    height: 300px;
+  }
+  ul {
+    margin-top: 10px;
+  }
+  ul p {
+    font-size: 0.5rem;
+  }
+  .foot-panel2 a {
+    font-size: 0.44rem;
+    margin-top: 5px;
+  }
+
+  /* Foot Panel 3 */
+  .foot-panel3 {
+    height: 35px;
+  }
+
+  .logo {
+    height: 25px;
+    width: 50px;
+  }
+
+  /* Foot panel 4 */
+  .foot-panel4 {
+    height: 35px;
+  }
+
+  .pages {
+    font-size: 0.5rem;
+  }
+
+  .copyright {
+    font-size: 0.5rem;
   }
 }

@@ -311,7 +311,7 @@ ul{
   
   .search-input {
     font-size: 0.5rem;
-    border-radius: none;
+    border-radius: 0px;
   }
   
   .search-icon {

@@ -3,7 +3,8 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bad6343e-c520-4beb-9927-31fc67617853/deploy-status)](https://app.netlify.com/sites/btguy-amzn-clone/deploys)
 
 This project is a CSS and HTML-only clone of the Amazon website.
-Please find demo here : https://btguy-amzn-clone.netlify.app/
+
+Please find demo here : https://btguy-shop-clone.netlify.app/
 
 ## Description
 
